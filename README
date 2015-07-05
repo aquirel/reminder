@@ -1,0 +1,6 @@
+Simple command-line birthday reminder intended to be used with cron to get email
+notifications from it and/or with your .bashrc or .profile or whatever.
+
+Just put .reminderrc to your home and populate it with birthdays of your friends
+and family. After that add invoication of reminder to your .profile or .bashrc
+and optionally to cron.daily.
